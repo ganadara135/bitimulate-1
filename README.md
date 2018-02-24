@@ -92,3 +92,8 @@ $ yarn start
 ### Questions
 
 Feel free to submit new issue when you have questions or find some bugs.
+
+### quick install
+- frontend
+webpackDevServer.config.js  ->   disableHostCheck: true;
+
